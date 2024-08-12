@@ -2,10 +2,10 @@
 
 **NIT Patna - Final Year Student**
 
-**Full Stack Developer | Electronics & Communication Engineering | Competitive Programmer**  
+**Full Stack Developer | Electronics & Communication Engineering | DSA Enthusiast**  
 📍 Location: Patna, India  
 📧 Email: [harshguptaclj@gmail.com](mailto:harshguptaclj@gmail.com)  
-🔗 LinkedIn: [Harsh Gupta](https://www.linkedin.com/in/harshgupta)  
+🔗 LinkedIn: [Harsh Gupta](https://www.linkedin.com/in/harsh-gupta-370473205/)  
 💼 GitHub: [harshguptaclj](https://github.com/harshguptaclj)  
 🧩 LeetCode: [harshgupta71](https://leetcode.com/u/harshgupta71/)
 
@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 Hey, 🙋🏼‍♂️  
-I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-stack development and a strong foundation in electronics and communication. I love building scalable web applications and solving complex problems through code.
+I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-stack development and a strong foundation in data structures and algorithms. I love building scalable web applications and solving complex problems through code.
 
 ☕ Just give me a cup of coffee and an open VS Code, and I'm ready to build something amazing!
 
@@ -22,7 +22,7 @@ I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-
 - C/C++
 - JavaScript
 - SQL
-- Python (Basic)
+- Python 
 - HTML5
 - CSS3
 
@@ -38,15 +38,13 @@ I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-
 
 - MongoDB
 - MySQL
-- SQLite
 
 ## ⚒️ Tools and Platforms
 
 - Git & GitHub
 - Visual Studio Code
-- Heroku
-- Netlify
-- Google Cloud Platform
+- Render
+- Vercel
 
 ## 🎯 Achievements
 
@@ -58,11 +56,11 @@ I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-
 
 **Tomato - Online Food Ordering Website**  
 A full-stack web application using React.js, Node.js, Express.js, MongoDB, and Stripe for online food ordering and payment processing.  
-[GitHub Repo](https://github.com/harshguptaclj/tomato) | [Live Demo](https://example.com/tomato)
+[GitHub Repo](https://github.com/harshguptaclj/tomato) | [Live Demo](https://food-del-frontend-7rx2.onrender.com/)
 
 **Netflix-GPT - Movie Recommendation App**  
 A GPT-3.5 Turbo powered movie recommendation app using React.js, Firebase, Redux Toolkit, and TMDB API.  
-[GitHub Repo](https://github.com/harshguptaclj/netflix-gpt) | [Live Demo](https://example.com/netflix-gpt)
+[GitHub Repo](https://github.com/harshguptaclj/netflix-gpt) | [Live Demo](https://netflixwithgpt.vercel.app/)
 
 ## 🔥 GitHub Stats
 
