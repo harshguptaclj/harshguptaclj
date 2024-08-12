@@ -2,7 +2,7 @@
 
 **NIT Patna - Final Year Student**
 
-**Aspiring Full Stack Developer | Electronics & Communication Engineering | DSA Enthusiast**  
+**Full Stack Developer | Electronics & Communication Engineering | DSA Enthusiast**  
 📍 Location: Patna, India  
 📧 Email: [harshguptaclj@gmail.com](mailto:harshguptaclj@gmail.com)  
 🔗 LinkedIn: [Harsh Gupta](https://www.linkedin.com/in/harsh-gupta-370473205/)  
