@@ -15,7 +15,7 @@
 Hey, 🙋🏼‍♂️  
 I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-stack development and a strong foundation in data structures and algorithms. I love building scalable web applications and solving complex problems through code.
 
-☕ Just give me a cup of coffee and an open VS Code, and I'm ready to build something amazing!
+☕ Just give me a cup of coffee and an opened VS Code, and I'm ready to build something amazing!
 
 ## 💪 Languages I Work With
 
