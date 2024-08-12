@@ -7,6 +7,7 @@
 📧 Email: [harshguptaclj@gmail.com](mailto:harshguptaclj@gmail.com)  
 🔗 LinkedIn: [Harsh Gupta](https://www.linkedin.com/in/harshgupta)  
 💼 GitHub: [harshguptaclj](https://github.com/harshguptaclj)
+🧩 LeetCode: [harshgupta71](https://leetcode.com/u/harshgupta71/)
 
 ## 🌟 About Me
 
