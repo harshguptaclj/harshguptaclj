@@ -56,7 +56,7 @@ I'm Harsh Gupta 🤠, a final-year student at NIT Patna with a passion for full-
 
 **Tomato - Online Food Ordering Website**  
 A full-stack web application using React.js, Node.js, Express.js, MongoDB, and Stripe for online food ordering and payment processing.  
-[GitHub Repo](https://github.com/harshguptaclj/tomato) | [Live Demo](https://food-del-frontend-7rx2.onrender.com/)
+[GitHub Repo](https://github.com/harshguptaclj/food-del) | [Live Demo](https://food-del-frontend-7rx2.onrender.com/)
 
 **Netflix-GPT - Movie Recommendation App**  
 A GPT-3.5 Turbo powered movie recommendation app using React.js, Firebase, Redux Toolkit, and TMDB API.  
