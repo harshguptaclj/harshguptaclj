@@ -62,7 +62,7 @@ A full-stack web application using React.js, Node.js, Express.js, MongoDB, and S
 A GPT-3.5 Turbo powered movie recommendation app using React.js, Firebase, Redux Toolkit, and TMDB API.  
 [GitHub Repo](https://github.com/harshguptaclj/netflix-gpt) | [Live Demo](https://netflixwithgpt.vercel.app/)
 
-## 🔥 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshguptaclj&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+
 
